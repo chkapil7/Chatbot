@@ -90,7 +90,7 @@ Visit: [http://localhost:5173](http://localhost:5173)
 - **Frontend**: React, Vite, Tailwind CSS, ShadCN UI
 - **Backend**: FastAPI, Python
 - **Database**: MongoDB (using Motor)
-- **Authentication**: Google OAuth 2.0
+- **Authentication**: Local Authentication (as of now)
 - **AI Models**: Gemini Pro, Ollama
 - **Embedding & Retrieval**: Sentence Transformers, FAISS
 
@@ -104,6 +104,7 @@ Visit: [http://localhost:5173](http://localhost:5173)
 - 📱 Progressive Web App (PWA)
 - 🧠 Knowledge Graph integration
 - 🧾 Admin panel & analytics dashboard
+- 🔏 Google OAuth 2.0
 
 ---
 
