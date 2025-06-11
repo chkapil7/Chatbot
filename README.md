@@ -80,8 +80,8 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 | Name            | Contribution Area                          |
 |-----------------|--------------------------------------------|
-| [CH Kapil Anirudh]https://github.com/chkapil7?tab=repositories    | Google Auth, Chat UI, FastAPI APIs, MongoDB Setup, Chat History Storage         |
-| [Manogna VL]https://github.com/manogna2508             |  UI, Model Selector, Markdown Renderer, Ollama & Gemini API Integration, Embedding      |
+| [CH Kapil Anirudh](https://github.com/chkapil7?tab=repositories)    | Google Auth, Chat UI, FastAPI APIs, MongoDB Setup, Chat History Storage         |
+| [Manogna VL](https://github.com/manogna2508)             |  UI, Model Selector, Markdown Renderer, Ollama & Gemini API Integration, Embedding      |
 
 ---
 
