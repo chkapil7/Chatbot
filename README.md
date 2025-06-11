@@ -73,7 +73,7 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 1. Start the backend using `uvicorn`.
 2. Start the frontend using `npm run dev`.
-3. Log in with Google.
+3. Log in with Google or Local Database Authentication.
 4. Select your preferred model (Gemini or Ollama).
 5. Start chatting and view your message history!
 
