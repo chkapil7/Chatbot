@@ -1,0 +1,15 @@
+# Core dependencies
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# FAISS for vector search
+faiss-cpu==1.7.4
+
+# Sentence Transformers for embeddings
+sentence-transformers==2.6.1
+torch==2.2.0
+transformers==4.39.3
+
+# Pydantic & others
+python-multipart==0.0.9
+numpy==1.26.4
