@@ -26,6 +26,8 @@ git clone https://github.com/your-username/chatbot-project.git
 cd chatbot-project
 
 
+---
+
 ### 2.Backend Setup (FASTAPI)
 
 ```bash
