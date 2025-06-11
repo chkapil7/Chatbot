@@ -78,12 +78,10 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 ## 🧑‍💻 Contributors
 
-| Name            | Role              | Contribution Area                          |
-|-----------------|-------------------|--------------------------------------------|
-| Kapil Nirudh    | Full-stack Dev     | Google Auth, Chat UI, FastAPI APIs         |
-| You             | Frontend Developer | UI, Model Selector, Markdown Renderer      |
-| Contributor A   | Backend Engineer   | Ollama & Gemini API Integration, Embedding |
-| Contributor B   | DB Specialist      | MongoDB Setup, Chat History Storage        |
+| Name            | Contribution Area                          |
+|-----------------|--------------------------------------------|
+| Kapil Anirudh    | Google Auth, Chat UI, FastAPI APIs, MongoDB Setup, Chat History Storage         |
+| Manogna             |  UI, Model Selector, Markdown Renderer, Ollama & Gemini API Integration, Embedding      |
 
 ---
 
