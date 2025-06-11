@@ -59,6 +59,9 @@ uvicorn main:app --reload
 ```bash
 cd ../frontend
 npm install
+npm install axios react-router-dom
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 npm run dev
 ```
 
